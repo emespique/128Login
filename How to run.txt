@@ -1,0 +1,19 @@
+How to run:
+- be sure you have xampp installed
+- ensure that there's a xampp folder in C:
+- all files are in Xampp > htdocs > foldername
+- start apache and mysql in xampp
+- type localhost/foldername/login.php sa search bar
+- type localhost/phpmyadmin then import yung sql file
+- pag nagsign up lalabas sa "users" ng log_in_db yung bagong entry
+- select entry if gustong idelete
+
+Others
+- click new for database
+- after creating, add index for user_id and date
+- files will be save in xampp htdocs
+- create new folder there called log in
+
+
+Reference:
+https://www.youtube.com/watch?v=WYufSGgaCZ8
